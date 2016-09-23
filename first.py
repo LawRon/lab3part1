@@ -2,7 +2,7 @@ include<stdio.h>
 
 main()
 {
-    printf("Hello Mars!");
+    printf("Hello Jupiter!");
 
 
 }
