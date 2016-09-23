@@ -6,5 +6,7 @@ of any selected folder(s).
 Resources for persona project:
 
 https://msdn.microsoft.com/en-us/library/windows/desktop/gg314982(v=vs.85).aspx
+
 https://msdn.microsoft.com/en-us/library/windows/desktop/dd940376(v=vs.85).aspx
+
 https://msdn.microsoft.com/en-us/library/windows/desktop/ff521671(v=vs.85).aspx
